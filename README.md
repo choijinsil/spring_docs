@@ -8,9 +8,9 @@ spring_docs적용
 
 4. api-guide.adoc 파일 내용 작성하기    
 
-> = User
-> == user 저장하기
-> include::{snippets}/save-example/request-parameters.adoc[] 
+> = User     
+> == user 저장하기      
+> include::{snippets}/save-example/request-parameters.adoc[]      
 
 include::{snippets}/target.generated-snippets하위의 폴더명/폴더 안의 파일명.adoc[]
 
