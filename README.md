@@ -1,7 +1,8 @@
 # spring_docs
 spring_docs적용
 
-1. project명/src/main/asciidoc 폴더 생성
+1. project명/src/main/asciidoc 폴더 생성 ( 실제 물리적인 폴더에 추가)
+1-1. 프로젝트 우클릭 - buildpath - Configure Build Path - Source - Add Folder... - 내가 만든 asciidoc폴더 체크후 ok - Apply ( 이렇게 해야 이클립스 화면상에 폴더가 보임)
 2. 해당 위치에 api-guide.adoc파일 생성
 3. maven update - clean - install
 
