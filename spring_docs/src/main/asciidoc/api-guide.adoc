@@ -1,0 +1,5 @@
+= User
+
+== user 저장하기
+
+include::{snippets}/save-example/request-parameters.adoc[]
